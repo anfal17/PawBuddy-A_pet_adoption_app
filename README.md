@@ -6,8 +6,8 @@ built using Jetpack made this as project as a part of Compose campaign <br>
 Built Using <br>
 -Kotlin<br>
 -Jetpack Compose - Androids modern toolkit for building Ui<br> 
-  -used Jetpack compose navigation<br>
--used Lazycolumn,Material Theme components<br>
+  -used Jetpack compose NAVIGATION<br>
+-used LAZYCOLOUMN,screens,Material Theme components<br>
 Have a look!
 ![pw1](https://user-images.githubusercontent.com/92685449/199163533-5d1a38e1-23e2-400c-b82f-58691bc4f917.png)
 
