@@ -9,8 +9,8 @@ This app was created as final projectas a part of the Jetpack Compose campaign c
      <td>Details Page</td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/92685449/199163533-5d1a38e1-23e2-400c-b82f-58691bc4f917.png" height=100%/></td>
-    <td><img src="https://user-images.githubusercontent.com/92685449/199163555-76a8aff8-e8db-4e50-a398-562efa754d6a.png"  height=100%/></td>
+    <td><img src="https://user-images.githubusercontent.com/92685449/199163533-5d1a38e1-23e2-400c-b82f-58691bc4f917.png" height=640/></td>
+    <td><img src="https://user-images.githubusercontent.com/92685449/199163555-76a8aff8-e8db-4e50-a398-562efa754d6a.png"  height=640/></td>
 
   </tr>
  </table>
