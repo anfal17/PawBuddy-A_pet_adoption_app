@@ -20,7 +20,7 @@ This app was created as final projectas a part of the Jetpack Compose campaign c
      <td>Details Page</td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/92685449/199163564-042c04fb-2920-4183-be5e-43c52ab3c542.png" height = 70%/></td>
+    <td><img src="https://user-images.githubusercontent.com/92685449/199163564-042c04fb-2920-4183-be5e-43c52ab3c542.png" height = 40%/></td>
   </tr>
  </table>
  
