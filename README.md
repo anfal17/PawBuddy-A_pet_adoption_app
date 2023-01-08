@@ -15,7 +15,7 @@ This app was created as final projectas a part of the Jetpack Compose campaign c
  
 <table>
   <tr>
-    <td>Landing Page</td>
+    <td>Details Page</td>
      <td>Details Page</td>
   </tr>
   <tr>
