@@ -1,17 +1,11 @@
 # PawBuddy-A_pet_adoption_app
-PawBuddy-a pet adoption app
+Welcome to PawBuddy - a pet adoption app built using Jetpack!
 
-built using Jetpack made this as project as a part of Compose campaign <br>
+This app was created as final projectas a part of the Jetpack Compose campaign conducted by GDSC in our college and was built using Kotlin and Jetpack Compose. The app utilizes Jetpack Compose Navigation and the LazyColumn, screens, and Material Theme components to provide a modern and intuitive user experience.
+![pw1](https://user-images.githubusercontent.com/92685449/199163533-5d1a38e1-23e2-400c-b82f-58691bc4f917.png =250x)
 
-Built Using <br>
--Kotlin<br>
--Jetpack Compose - Androids modern toolkit for building Ui<br> 
-  -used Jetpack compose NAVIGATION<br>
--used LAZYCOLOUMN,screens,Material Theme components<br>
-Have a look!
-![pw1](https://user-images.githubusercontent.com/92685449/199163533-5d1a38e1-23e2-400c-b82f-58691bc4f917.png)
-
-![pw2](https://user-images.githubusercontent.com/92685449/199163555-76a8aff8-e8db-4e50-a398-562efa754d6a.png)
+![pw2](https://user-images.githubusercontent.com/92685449/199163555-76a8aff8-e8db-4e50-a398-562efa754d6a.png =250x)
 <br>
-![pw3](https://user-images.githubusercontent.com/92685449/199163564-042c04fb-2920-4183-be5e-43c52ab3c542.png)
+![pw3](https://user-images.githubusercontent.com/92685449/199163564-042c04fb-2920-4183-be5e-43c52ab3c542.png =250x)
 <br>
+Thank you for taking the time to have a look at our app. 
